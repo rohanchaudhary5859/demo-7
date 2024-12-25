@@ -1,0 +1,85 @@
+body {
+  --themecolor: #8854FE;
+  --button-color: #ffffff;
+  --anchor-color:#3377FF;
+  --themecoloropacity:#a076fe;
+}
+
+.wr-content-box-layout-3 .wr-highlighted-text{
+    background: #8854FE;
+	background-clip: text !important;
+}
+
+.wt-searchbtn {
+    background: #8854FE;
+}
+header .wr-dropdowarrow{
+	background: #8854FE;
+}
+
+.wr-content-box-wrapper .wr-subtitle,
+.wr-info-box-wrapper .wr-subtitle{
+	color: #8854FE;
+}
+
+.wr-freelancer-header-content > li {
+    color: #8854FE;
+	background: rgba(136, 84, 254, 0.1);
+}
+
+.wr-secondary-btn:hover,
+.wr-secondary-btn:focus{
+    color: #fff;
+    border-color: #8854FE;
+    background-color: #8854FE;
+}
+
+.wr-secondary-btn::before {
+    background: #8854FE;
+}
+
+.wr-content-box-wrapper .wr-subtitle {
+    color: #8854FE;
+}
+.wr-content-box-wrapper .wr-subtitle {
+    color: #8854FE;
+ }
+
+.wr_popular .wr-most-popular-tag {
+    background: #8854FE;
+ }
+
+.wr_popular {
+    border: 2px solid #8854FE;
+}
+
+.wr-package-item .wr-pricing__content:hover .wr-secondary-btn {
+    background: #8854FE;
+}
+
+.wr-package-item .wr-pricing__content.wr_popular .wr-btnv2.wr-btn {
+    background: #8854FE;
+}
+
+.wr-navbarbtn > span.wr-btn-solid-lg{
+	background:#8854FE !important;
+	border: 1px solid #8854FE !important;
+}
+.wr-header-transparent .wr-navbarbtn .wr-btn-solid-lg:hover{
+	background: #8854FE !important;
+    border-color: #8854FE !important;
+}
+.wr-freelancers-grid-item:hover .wr-secondary-btn{
+	background: #8854FE;
+}
+.wr-button-wrapper .wr-primary-btn{
+	background:#8854FE;
+}
+.wr-button-wrapper .wr-primary-btn:hover{
+	background:#a076fe;
+}.wr-feedback-slider-description svg path:nth-child(1){
+	fill: #8854FE;
+}
+.swiper-pagination-bullet-active{
+	background:#8854FE !important;
+}
